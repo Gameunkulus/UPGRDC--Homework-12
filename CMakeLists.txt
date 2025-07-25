@@ -4,7 +4,7 @@ set(PostgreSQL_ADDITIONAL_VERSIONS "15")
 
 project(MyProject1)
 
-add_executable(MyProject1 main.cpp)
+add_executable(MyProject1 main.cpp "sql_command_class.cpp" "sql_command_class.h")
 
 add_subdirectory("C:\Users\bugr2\libpq" libpqxx-build)
 
