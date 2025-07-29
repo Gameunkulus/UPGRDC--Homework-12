@@ -17,6 +17,9 @@
 //Path to a library.
 "C:/Users/bugr2/libpq":FILEPATH=C:/Users/bugr2/libpq-NOTFOUND
 
+//Path to a library.
+"C:/Users/bugr2/source/repos/HomeworkUPGRD-12/folder/libpq":FILEPATH=C:/Users/bugr2/source/repos/HomeworkUPGRD-12/folder/libpq-NOTFOUND
+
 //Path to a program.
 CMAKE_AR:FILEPATH=C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/lib.exe
 

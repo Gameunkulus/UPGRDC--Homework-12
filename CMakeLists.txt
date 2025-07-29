@@ -6,7 +6,7 @@ project(MyProject1)
 
 add_executable(MyProject1 main.cpp "sql_command_class.cpp" "sql_command_class.h")
 
-find_library("C:/Users/bugr2/libpq" libpqxx-build)
+find_library("C:/Users/bugr2/source/repos/HomeworkUPGRD-12/folder/libpq" libpqxx-build)
 
 target_compile_features(MyProject1 PRIVATE cxx_std_17)
 

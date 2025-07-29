@@ -2,6 +2,7 @@
 
 #include <iostream>
 #include <pqxx/pqxx>
+#include <vector>
 #include <Windows.h>
 #include <string>
 #include <codecvt>
